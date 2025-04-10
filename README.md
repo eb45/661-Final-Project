@@ -36,3 +36,9 @@ This section contains all the core machine learning and deep learning models use
 |------|-------------|
 | [Models/ConvLSTM_V1.ipynb](Models/ConvLSTM_V1.ipynb) | ConvLSTM using sigmoid and tanh activation |
 | [Models/CONVLSTM_V2.ipynb](Models/ConvLSTM_V2.ipynb) | CONVLSTM using sigmoid and elu activation |
+
+
+### Example Training of Model
+As each dataset is informed with longitude and latitude data, throughout the training process we can visualize the accuracy at each epoch in a 2D map format as shown below.
+
+![alt text](Visualizations/Training_Visual.png)
