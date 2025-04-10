@@ -27,4 +27,12 @@ This project focuses on trying to reconstruct sea subsurface temperature (ST) fr
 </table>
 
 
-We use an improvement upon LSTM fully connected layers and instead transforming them into a convolutional layer. This should improve the model’s spatial awareness because convolutional layers capture spatial hierarchy better than FC layers. Specifically, convolutional layers are more efficient in that they take advantage of spatial locality and thus have more sparse connections. The different models that we are benchmarking can be found in the 'Models' folder.
+We use an improvement upon LSTM fully connected layers and instead transforming them into a convolutional layer. This should improve the model’s spatial awareness because convolutional layers capture spatial hierarchy better than FC layers. Specifically, convolutional layers are more efficient in that they take advantage of spatial locality and thus have more sparse connections.
+
+### Models
+This section contains all the core machine learning and deep learning models used in the project. Each model is modularized into its own file within the `Models/` directory.
+
+| File | Description |
+|------|-------------|
+| [Models/ConvLSTM_V1.ipynb](Models/ConvLSTM_V1.ipynb) | ConvLSTM using sigmoid and tanh activation |
+| [Models/CONVLSTM_V2.ipynb](Models/ConvLSTM_V2.ipynb) | CONVLSTM using sigmoid and elu activation |
