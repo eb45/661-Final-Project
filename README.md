@@ -5,7 +5,7 @@ This project focuses on trying to reconstruct sea subsurface temperature (ST) fr
 <table>
   <tr>
     <td align="center">
-      <img src="Visualizations/ssh_heatmap.gif" alt="Sea Surface Height" width="200"><br>
+      <img src="Visualizations/Sea_Surface_Height.png" alt="Sea Surface Height" width="200"><br>
       <strong>Sea Surface Height</strong>
     </td>
     <td align="center">
