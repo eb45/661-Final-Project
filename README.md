@@ -37,6 +37,7 @@ This section contains all the core machine learning and deep learning models use
 | [Models/CONVLSTM_V2.ipynb](Models/ConvLSTM_V2.ipynb) | ConvLSTM using sigmoid and elu activation |
 | [Models/ConvLSTM_V1_LandMasking.ipynb](Models/ConvLSTM_V1_LandMasking.ipynb) | ConvLSTM using sigmoid and tanh activation with landmasking |
 | [Models/ConvLSTM_V2_LandMasking.ipynb](Models/ConvLSTM_V1_LandMasking.ipynb) | ConvLSTM using sigmoid and elu activation with landmasking |
+| [Models/CNN_LSTM.ipynb](Models/CNNLSTM.ipynb) | Hybrid Architecture CNN-LSTM model |
 
 
 ### Additional Experimentation Files
